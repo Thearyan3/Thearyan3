@@ -1,9 +1,11 @@
 👋 Hi, I’m @Thearyan3.
-I am a BCA 2nd year student learning from DIMS, Meerut.
-I am working on frontend technologies (HTML, CSS, JAVASCRIPT, Jquery, React) and backend technologies (MongoDB, Express, Node, React) MERN
-and working on several projects on my own.
-I am also completing Introduction to Generative AI badge course.
-I am also skillful in C with handson experience on webdev tools.
+I am a BCA Student in Dewan Institute of Management Studies.
+
+I am working on Frontend technologies(HTML5, CSS3, Bootstrap, JavaScript, and other JS libraries) and Backend technologies(MongoDB, ExpressJS, NodeJS) and Databases like MySQL and also completing several projects.
+
+I am completing the course of Generative AI. Skillful in C with hands on experience on web development tools.
+
+Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.
 
 
 <!---
